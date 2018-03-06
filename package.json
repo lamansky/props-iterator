@@ -1,0 +1,40 @@
+{
+  "name": "props-iterator",
+  "version": "1.0.0",
+  "description": "Iterates all properties (owned and inherited) of an object.",
+  "keywords": [
+    "object",
+    "own",
+    "inherited",
+    "properties",
+    "iterator"
+  ],
+  "author": "John Lamansky",
+  "license": "MIT",
+  "homepage": "https://github.com/lamansky/props-iterator",
+  "repository": "lamansky/props-iterator",
+  "main": "index.js",
+  "files": [],
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "dependencies": {
+    "own-all": "^1.0.0",
+    "own-entries": "^1.0.0",
+    "sbo": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-lamansky": "^1.0.0",
+    "is-iterator": "^1.0.1",
+    "mocha": "^5.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "eslintConfig": {
+    "extends": "lamansky",
+    "env": {
+      "mocha": true
+    }
+  }
+}
