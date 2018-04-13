@@ -26,7 +26,7 @@
   "devDependencies": {
     "eslint-config-lamansky": "^1.0.0",
     "is-iterator": "^1.0.1",
-    "mocha": "^5.0.1"
+    "mocha": "^5.1.0"
   },
   "scripts": {
     "test": "mocha"
