@@ -1,6 +1,6 @@
 {
   "name": "props-iterator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Iterates all properties (owned and inherited) of an object.",
   "keywords": [
     "object",
