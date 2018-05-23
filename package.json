@@ -21,12 +21,12 @@
   "dependencies": {
     "own-all": "^1.0.0",
     "own-entries": "^1.0.0",
-    "sbo": "^1.0.0"
+    "sbo": "^1.1.0"
   },
   "devDependencies": {
     "eslint-config-lamansky": "^1.0.0",
     "is-iterator": "^1.0.1",
-    "mocha": "^5.1.0"
+    "mocha": "^5.2.0"
   },
   "scripts": {
     "test": "mocha"
