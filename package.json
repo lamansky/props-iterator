@@ -19,8 +19,7 @@
     "node": ">=7.0.0"
   },
   "dependencies": {
-    "own-all": "^1.0.0",
-    "own-entries": "^1.0.0",
+    "prop-entries": "^1.0.0",
     "sbo": "^1.1.0"
   },
   "devDependencies": {

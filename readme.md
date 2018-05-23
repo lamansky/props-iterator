@@ -37,6 +37,5 @@ iter.next().done // true
 
 ## Related
 
-* [prop-keys](https://github.com/lamansky/prop-keys): Same as this module, except it iterates only keys.
-* [prop-values](https://github.com/lamansky/prop-values): Same as this module, except it iterates only values.
+* [prop-entries](https://github.com/lamansky/prop-entries): Same as this module, except it returns an array.
 * [entries-iterator](https://github.com/lamansky/entries-iterator): Supports more than just Objects.
